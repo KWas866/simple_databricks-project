@@ -5,7 +5,7 @@ This project is a simple Databricks workflow for analyzing loan data. It include
 
 ## 📂 Files
 📄 **loan.csv** - Dataset containing loan-related information.<br/>
-📜 **index.html** - Exported Databricks notebook containing SQL and Python code for data processing and analysis.
+📜 **index.html** - Exported Databricks notebook containing SQL code for data analysis.
 
 ## 🛠 Requirements
 ✅ Databricks account (Community Edition or paid version) <br/>
@@ -26,6 +26,15 @@ This project is a simple Databricks workflow for analyzing loan data. It include
 ## 📌 Usage
 This project serves as a starting point for data analysis in Databricks and can be extended with more advanced analytics, machine learning models, or visualization techniques.
 
+## 🌍 GitHub Pages
+🔗 [Project Page](https://kwas866.github.io/simple_databricks-project/)
+
 ## 👤 Author
 ✍️ KWas866
+
+
+
+
+
+
 
